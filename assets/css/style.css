@@ -39,3 +39,7 @@ main{
     height: 300px;
     object-fit: cover;
 }
+
+.modal-body{
+    height: 450px;
+}
